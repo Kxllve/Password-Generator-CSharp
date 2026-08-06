@@ -1,7 +1,9 @@
 # Password-Generator-CSharp
 A simple, secure password generator written in C#.
 
-This program will only work on Linux.
+### ⚠️ Warnings 
+- This program will only work on Linux.
+- Clipboard is not secure as other applications can see it, clear your clipboard after use.
 
 ### Prerequisites
 
@@ -11,3 +13,5 @@ This program will only work on Linux.
 ### Installation
 
 Clone or download this repository:
+
+Made by @Kxllve while learning C#.
